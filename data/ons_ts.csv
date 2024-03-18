@@ -1,0 +1,1079 @@
+id,year,quarter,month,ceg_label,group,val_geracao
+1,2014,1,1,Fortaleza,Third-part LNG,212426.8
+2,2014,1,1,Maranhão IV,Parnaiba Consolidated,247227.73
+3,2014,1,1,Maranhão V,Parnaiba Consolidated,243075.57
+4,2014,1,1,Nova Venécia 2,Parnaiba Consolidated,118296.32
+5,2014,1,1,Parnaíba IV,Parnaiba Consolidated,34599.97
+6,2014,1,1,Porto do Itaqui,Coal Consolidated,212021.18
+7,2014,1,1,Porto do Pecém II,Coal Consolidated,260167.303
+8,2014,1,2,Fortaleza,Third-part LNG,204290.32
+9,2014,1,2,Maranhão III,Parnaiba Consolidated,11705.83
+10,2014,1,2,Maranhão IV,Parnaiba Consolidated,203027.79
+11,2014,1,2,Maranhão V,Parnaiba Consolidated,209151.6
+12,2014,1,2,Nova Venécia 2,Parnaiba Consolidated,101597.11
+13,2014,1,2,Parnaíba IV,Parnaiba Consolidated,35872.88
+14,2014,1,2,Porto do Itaqui,Coal Consolidated,173096.444
+15,2014,1,2,Porto do Pecém II,Coal Consolidated,188740.772
+16,2014,1,3,Fortaleza,Third-part LNG,212573.36
+17,2014,1,3,Maranhão III,Parnaiba Consolidated,8896.38
+18,2014,1,3,Maranhão IV,Parnaiba Consolidated,247004.41
+19,2014,1,3,Maranhão V,Parnaiba Consolidated,249653.69
+20,2014,1,3,Nova Venécia 2,Parnaiba Consolidated,122355.33
+21,2014,1,3,Parnaíba IV,Parnaiba Consolidated,40571.88
+22,2014,1,3,Porto do Itaqui,Coal Consolidated,194040.67
+23,2014,1,3,Porto do Pecém II,Coal Consolidated,262389.43
+24,2014,2,4,Fortaleza,Third-part LNG,137992.79
+25,2014,2,4,Maranhão III,Parnaiba Consolidated,0.0
+26,2014,2,4,Maranhão IV,Parnaiba Consolidated,239572.0
+27,2014,2,4,Maranhão V,Parnaiba Consolidated,242610.95
+28,2014,2,4,Nova Venécia 2,Parnaiba Consolidated,127241.73
+29,2014,2,4,Parnaíba IV,Parnaiba Consolidated,25337.34
+30,2014,2,4,Porto do Itaqui,Coal Consolidated,166246.828
+31,2014,2,4,Porto do Pecém II,Coal Consolidated,260330.98
+32,2014,2,5,Fortaleza,Third-part LNG,237573.1116
+33,2014,2,5,Maranhão III,Parnaiba Consolidated,575.6
+34,2014,2,5,Maranhão IV,Parnaiba Consolidated,237657.7289
+35,2014,2,5,Maranhão V,Parnaiba Consolidated,246169.0065
+36,2014,2,5,Nova Venécia 2,Parnaiba Consolidated,66137.6324
+37,2014,2,5,Parnaíba IV,Parnaiba Consolidated,17048.7417
+38,2014,2,5,Porto do Itaqui,Coal Consolidated,107749.6748
+39,2014,2,5,Porto do Pecém II,Coal Consolidated,244257.97
+40,2014,2,6,Fortaleza,Third-part LNG,211380.4253
+41,2014,2,6,Maranhão III,Parnaiba Consolidated,10302.3514
+42,2014,2,6,Maranhão IV,Parnaiba Consolidated,224991.8258
+43,2014,2,6,Maranhão V,Parnaiba Consolidated,219797.7061
+44,2014,2,6,Nova Venécia 2,Parnaiba Consolidated,72670.8041
+45,2014,2,6,Parnaíba IV,Parnaiba Consolidated,31419.5514
+46,2014,2,6,Porto do Itaqui,Coal Consolidated,198241.0109
+47,2014,2,6,Porto do Pecém II,Coal Consolidated,239720.36
+48,2014,3,7,Fortaleza,Third-part LNG,230694.007
+49,2014,3,7,Maranhão III,Parnaiba Consolidated,0.0
+50,2014,3,7,Maranhão IV,Parnaiba Consolidated,236637.926
+51,2014,3,7,Maranhão V,Parnaiba Consolidated,238008.473
+52,2014,3,7,Nova Venécia 2,Parnaiba Consolidated,80734.583
+53,2014,3,7,Parnaíba IV,Parnaiba Consolidated,37248.765
+54,2014,3,7,Porto do Itaqui,Coal Consolidated,247767.599
+55,2014,3,7,Porto do Pecém II,Coal Consolidated,243402.16
+56,2014,3,8,Fortaleza,Third-part LNG,232691.431
+57,2014,3,8,Maranhão III,Parnaiba Consolidated,169.143
+58,2014,3,8,Maranhão IV,Parnaiba Consolidated,220561.023
+59,2014,3,8,Maranhão V,Parnaiba Consolidated,237068.165
+60,2014,3,8,Nova Venécia 2,Parnaiba Consolidated,87329.033
+61,2014,3,8,Parnaíba IV,Parnaiba Consolidated,40348.332
+62,2014,3,8,Porto do Itaqui,Coal Consolidated,195471.342
+63,2014,3,8,Porto do Pecém II,Coal Consolidated,203347.132
+64,2014,3,9,Fortaleza,Third-part LNG,227797.75
+65,2014,3,9,Maranhão III,Parnaiba Consolidated,14077.264
+66,2014,3,9,Maranhão IV,Parnaiba Consolidated,104465.402
+67,2014,3,9,Maranhão V,Parnaiba Consolidated,134934.043
+68,2014,3,9,Nova Venécia 2,Parnaiba Consolidated,65089.917
+69,2014,3,9,Parnaíba IV,Parnaiba Consolidated,24137.001
+70,2014,3,9,Porto do Itaqui,Coal Consolidated,237147.684
+71,2014,3,9,Porto do Pecém II,Coal Consolidated,170793.58
+72,2014,4,10,Fortaleza,Third-part LNG,232372.83
+73,2014,4,10,Maranhão III,Parnaiba Consolidated,27325.644
+74,2014,4,10,Maranhão IV,Parnaiba Consolidated,216011.36
+75,2014,4,10,Maranhão V,Parnaiba Consolidated,222050.481
+76,2014,4,10,Nova Venécia 2,Parnaiba Consolidated,43290.36
+77,2014,4,10,Parnaíba IV,Parnaiba Consolidated,38514.529
+78,2014,4,10,Porto do Itaqui,Coal Consolidated,104570.19
+79,2014,4,10,Porto do Pecém II,Coal Consolidated,269263.64
+80,2014,4,11,Fortaleza,Third-part LNG,225084.815
+81,2014,4,11,Maranhão III,Parnaiba Consolidated,108603.027
+82,2014,4,11,Maranhão IV,Parnaiba Consolidated,200322.222
+83,2014,4,11,Maranhão V,Parnaiba Consolidated,192220.042
+84,2014,4,11,Nova Venécia 2,Parnaiba Consolidated,61794.321
+85,2014,4,11,Parnaíba IV,Parnaiba Consolidated,35999.482
+86,2014,4,11,Porto do Itaqui,Coal Consolidated,216165.4
+87,2014,4,11,Porto do Pecém II,Coal Consolidated,264835.19
+88,2014,4,12,Fortaleza,Third-part LNG,229091.952
+89,2014,4,12,Maranhão III,Parnaiba Consolidated,192664.023
+90,2014,4,12,Maranhão IV,Parnaiba Consolidated,51139.23
+91,2014,4,12,Maranhão V,Parnaiba Consolidated,172353.213
+92,2014,4,12,Nova Venécia 2,Parnaiba Consolidated,122972.004
+93,2014,4,12,Parnaíba IV,Parnaiba Consolidated,34772.531
+94,2014,4,12,Porto do Itaqui,Coal Consolidated,256716.099
+95,2014,4,12,Porto do Pecém II,Coal Consolidated,269115.362
+96,2015,1,1,Fortaleza,Third-part LNG,221752.99
+97,2015,1,1,Maranhão III,Parnaiba Consolidated,216915.783
+98,2015,1,1,Maranhão IV,Parnaiba Consolidated,17901.551
+99,2015,1,1,Maranhão V,Parnaiba Consolidated,196487.296
+100,2015,1,1,Nova Venécia 2,Parnaiba Consolidated,128763.796
+101,2015,1,1,Parnaíba IV,Parnaiba Consolidated,26862.204999999998
+102,2015,1,1,Porto do Itaqui,Coal Consolidated,245178.485
+103,2015,1,1,Porto do Pecém II,Coal Consolidated,269967.474
+104,2015,1,2,Fortaleza,Third-part LNG,208195.445
+105,2015,1,2,Maranhão III,Parnaiba Consolidated,182594.733
+106,2015,1,2,Maranhão IV,Parnaiba Consolidated,78619.7
+107,2015,1,2,Maranhão V,Parnaiba Consolidated,126478.875
+108,2015,1,2,Nova Venécia 2,Parnaiba Consolidated,115236.138
+109,2015,1,2,Parnaíba IV,Parnaiba Consolidated,26709.46
+110,2015,1,2,Porto do Itaqui,Coal Consolidated,233155.642
+111,2015,1,2,Porto do Pecém II,Coal Consolidated,232091.617
+112,2015,1,3,Fortaleza,Third-part LNG,218504.07
+113,2015,1,3,Maranhão III,Parnaiba Consolidated,160408.947
+114,2015,1,3,Maranhão IV,Parnaiba Consolidated,129177.492
+115,2015,1,3,Maranhão V,Parnaiba Consolidated,130029.576
+116,2015,1,3,Nova Venécia 2,Parnaiba Consolidated,120028.79
+117,2015,1,3,Parnaíba IV,Parnaiba Consolidated,33138.083
+118,2015,1,3,Porto do Itaqui,Coal Consolidated,204973.7008
+119,2015,1,3,Porto do Pecém II,Coal Consolidated,194637.41
+120,2015,2,4,Fortaleza,Third-part LNG,206939.116
+121,2015,2,4,Maranhão III,Parnaiba Consolidated,154172.338
+122,2015,2,4,Maranhão IV,Parnaiba Consolidated,86733.231
+123,2015,2,4,Maranhão V,Parnaiba Consolidated,80835.359
+124,2015,2,4,Nova Venécia 2,Parnaiba Consolidated,46616.79
+125,2015,2,4,Parnaíba IV,Parnaiba Consolidated,36012.765
+126,2015,2,4,Porto do Itaqui,Coal Consolidated,226646.96600000001
+127,2015,2,4,Porto do Pecém II,Coal Consolidated,99912.33
+128,2015,2,5,Fortaleza,Third-part LNG,95161.87299999999
+129,2015,2,5,Maranhão III,Parnaiba Consolidated,101754.264
+130,2015,2,5,Maranhão IV,Parnaiba Consolidated,83356.681
+131,2015,2,5,Maranhão V,Parnaiba Consolidated,90611.381
+132,2015,2,5,Nova Venécia 2,Parnaiba Consolidated,5313.517
+133,2015,2,5,Parnaíba IV,Parnaiba Consolidated,31840.879
+134,2015,2,5,Porto do Itaqui,Coal Consolidated,52956.417
+135,2015,2,5,Porto do Pecém II,Coal Consolidated,77391.45
+136,2015,2,6,Fortaleza,Third-part LNG,155962.188
+137,2015,2,6,Maranhão III,Parnaiba Consolidated,240512.193
+138,2015,2,6,Maranhão IV,Parnaiba Consolidated,77721.556
+139,2015,2,6,Maranhão V,Parnaiba Consolidated,90058.916
+140,2015,2,6,Nova Venécia 2,Parnaiba Consolidated,114183.325
+141,2015,2,6,Parnaíba IV,Parnaiba Consolidated,35603.066
+142,2015,2,6,Porto do Itaqui,Coal Consolidated,145354.59
+143,2015,2,6,Porto do Pecém II,Coal Consolidated,237576.71
+144,2015,3,7,Fortaleza,Third-part LNG,174678.365
+145,2015,3,7,Maranhão III,Parnaiba Consolidated,101746.337
+146,2015,3,7,Maranhão IV,Parnaiba Consolidated,112307.412
+147,2015,3,7,Maranhão V,Parnaiba Consolidated,91821.87
+148,2015,3,7,Nova Venécia 2,Parnaiba Consolidated,95837.192
+149,2015,3,7,Parnaíba IV,Parnaiba Consolidated,36674.269
+150,2015,3,7,Porto do Itaqui,Coal Consolidated,226399.901
+151,2015,3,7,Porto do Pecém II,Coal Consolidated,255718.88
+152,2015,3,8,Fortaleza,Third-part LNG,214351.49
+153,2015,3,8,Maranhão III,Parnaiba Consolidated,206868.993
+154,2015,3,8,Maranhão IV,Parnaiba Consolidated,75938.211
+155,2015,3,8,Maranhão V,Parnaiba Consolidated,128400.939
+156,2015,3,8,Nova Venécia 2,Parnaiba Consolidated,77519.347
+157,2015,3,8,Parnaíba IV,Parnaiba Consolidated,40835.927
+158,2015,3,8,Porto do Itaqui,Coal Consolidated,238574.607
+159,2015,3,8,Porto do Pecém II,Coal Consolidated,247334.735
+160,2015,3,9,Fortaleza,Third-part LNG,236594.005
+161,2015,3,9,Maranhão III,Parnaiba Consolidated,256125.545
+162,2015,3,9,Maranhão IV,Parnaiba Consolidated,107598.16
+163,2015,3,9,Maranhão V,Parnaiba Consolidated,25628.344
+164,2015,3,9,Nova Venécia 2,Parnaiba Consolidated,80739.428
+165,2015,3,9,Parnaíba IV,Parnaiba Consolidated,30212.0
+166,2015,3,9,Porto do Itaqui,Coal Consolidated,222983.652
+167,2015,3,9,Porto do Pecém II,Coal Consolidated,200376.563
+168,2015,4,10,Fortaleza,Third-part LNG,244040.228
+169,2015,4,10,Maranhão III,Parnaiba Consolidated,359032.123
+170,2015,4,10,Maranhão IV,Parnaiba Consolidated,120422.954
+171,2015,4,10,Maranhão V,Parnaiba Consolidated,0.0
+172,2015,4,10,Nova Venécia 2,Parnaiba Consolidated,120602.124
+173,2015,4,10,Parnaíba IV,Parnaiba Consolidated,35551.469
+174,2015,4,10,Porto do Itaqui,Coal Consolidated,135333.273
+175,2015,4,10,Porto do Pecém II,Coal Consolidated,268485.55
+176,2015,4,11,Fortaleza,Third-part LNG,236116.827
+177,2015,4,11,Maranhão III,Parnaiba Consolidated,274578.308
+178,2015,4,11,Maranhão IV,Parnaiba Consolidated,139036.782
+179,2015,4,11,Maranhão V,Parnaiba Consolidated,44206.132
+180,2015,4,11,Nova Venécia 2,Parnaiba Consolidated,95447.434
+181,2015,4,11,Parnaíba IV,Parnaiba Consolidated,37929.751
+182,2015,4,11,Porto do Itaqui,Coal Consolidated,202999.662
+183,2015,4,11,Porto do Pecém II,Coal Consolidated,213676.231
+184,2015,4,12,Fortaleza,Third-part LNG,242126.374
+185,2015,4,12,Maranhão III,Parnaiba Consolidated,346484.189
+186,2015,4,12,Maranhão IV,Parnaiba Consolidated,118539.643
+187,2015,4,12,Maranhão V,Parnaiba Consolidated,2878.2799999999997
+188,2015,4,12,Nova Venécia 2,Parnaiba Consolidated,120518.081
+189,2015,4,12,Parnaíba IV,Parnaiba Consolidated,37068.742
+190,2015,4,12,Porto do Itaqui,Coal Consolidated,264826.959
+191,2015,4,12,Porto do Pecém II,Coal Consolidated,267671.92
+192,2016,1,1,Fortaleza,Third-part LNG,235780.001
+193,2016,1,1,Maranhão III,Parnaiba Consolidated,343044.412
+194,2016,1,1,Maranhão IV,Parnaiba Consolidated,93618.699
+195,2016,1,1,Maranhão V,Parnaiba Consolidated,15462.911
+196,2016,1,1,Nova Venécia 2,Parnaiba Consolidated,101804.628
+197,2016,1,1,Parnaíba IV,Parnaiba Consolidated,30847.327
+198,2016,1,1,Porto do Itaqui,Coal Consolidated,138860.647
+199,2016,1,1,Porto do Pecém II,Coal Consolidated,248317.738
+200,2016,1,2,Fortaleza,Third-part LNG,183650.415
+201,2016,1,2,Maranhão III,Parnaiba Consolidated,186514.711
+202,2016,1,2,Maranhão IV,Parnaiba Consolidated,99940.735
+203,2016,1,2,Maranhão V,Parnaiba Consolidated,22078.363
+204,2016,1,2,Nova Venécia 2,Parnaiba Consolidated,72130.803
+205,2016,1,2,Parnaíba IV,Parnaiba Consolidated,25177.256
+206,2016,1,2,Porto do Itaqui,Coal Consolidated,210415.302
+207,2016,1,2,Porto do Pecém II,Coal Consolidated,176639.445
+208,2016,1,3,Fortaleza,Third-part LNG,196519.02
+209,2016,1,3,Maranhão III,Parnaiba Consolidated,240407.867
+210,2016,1,3,Maranhão IV,Parnaiba Consolidated,71795.719
+211,2016,1,3,Maranhão V,Parnaiba Consolidated,1663.983
+212,2016,1,3,Nova Venécia 2,Parnaiba Consolidated,68100.682
+213,2016,1,3,Parnaíba IV,Parnaiba Consolidated,8671.294
+214,2016,1,3,Porto do Itaqui,Coal Consolidated,165368.151
+215,2016,1,3,Porto do Pecém II,Coal Consolidated,239056.181
+216,2016,2,4,Fortaleza,Third-part LNG,155704.91
+217,2016,2,4,Maranhão III,Parnaiba Consolidated,227273.627
+218,2016,2,4,Maranhão IV,Parnaiba Consolidated,72651.602
+219,2016,2,4,Maranhão V,Parnaiba Consolidated,0.0
+220,2016,2,4,Nova Venécia 2,Parnaiba Consolidated,56371.13
+221,2016,2,4,Parnaíba IV,Parnaiba Consolidated,13641.17
+222,2016,2,4,Porto do Itaqui,Coal Consolidated,152221.062
+223,2016,2,4,Porto do Pecém II,Coal Consolidated,181242.19
+224,2016,2,5,Fortaleza,Third-part LNG,57759.969
+225,2016,2,5,Maranhão III,Parnaiba Consolidated,87540.756
+226,2016,2,5,Maranhão IV,Parnaiba Consolidated,183609.481
+227,2016,2,5,Maranhão V,Parnaiba Consolidated,167885.934
+228,2016,2,5,Nova Venécia 2,Parnaiba Consolidated,24216.071
+229,2016,2,5,Parnaíba IV,Parnaiba Consolidated,29664.429
+230,2016,2,5,Porto do Itaqui,Coal Consolidated,38250.987
+231,2016,2,5,Porto do Pecém II,Coal Consolidated,262821.897
+232,2016,2,6,Fortaleza,Third-part LNG,146290.491
+233,2016,2,6,Maranhão III,Parnaiba Consolidated,298426.299
+234,2016,2,6,Maranhão IV,Parnaiba Consolidated,141335.531
+235,2016,2,6,Maranhão V,Parnaiba Consolidated,41877.599
+236,2016,2,6,Nova Venécia 2,Parnaiba Consolidated,94870.314
+237,2016,2,6,Parnaíba IV,Parnaiba Consolidated,34050.137
+238,2016,2,6,Porto do Itaqui,Coal Consolidated,230485.098
+239,2016,2,6,Porto do Pecém II,Coal Consolidated,195190.41
+240,2016,3,7,Fortaleza,Third-part LNG,98859.875
+241,2016,3,7,Maranhão III,Parnaiba Consolidated,366236.8
+242,2016,3,7,Maranhão IV,Parnaiba Consolidated,202439.472
+243,2016,3,7,Maranhão V,Parnaiba Consolidated,205845.097
+244,2016,3,7,Nova Venécia 2,Parnaiba Consolidated,74784.182
+245,2016,3,7,Parnaíba IV,Parnaiba Consolidated,32636.482
+246,2016,3,7,Porto do Itaqui,Coal Consolidated,194123.529
+247,2016,3,7,Porto do Pecém II,Coal Consolidated,192979.38
+248,2016,3,8,Fortaleza,Third-part LNG,57735.468
+249,2016,3,8,Maranhão III,Parnaiba Consolidated,367989.432
+250,2016,3,8,Maranhão IV,Parnaiba Consolidated,209940.627
+251,2016,3,8,Maranhão V,Parnaiba Consolidated,210966.687
+252,2016,3,8,Nova Venécia 2,Parnaiba Consolidated,48044.706
+253,2016,3,8,Parnaíba IV,Parnaiba Consolidated,32261.532
+254,2016,3,8,Porto do Itaqui,Coal Consolidated,222108.33
+255,2016,3,8,Porto do Pecém II,Coal Consolidated,135450.34
+256,2016,3,9,Fortaleza,Third-part LNG,89375.601
+257,2016,3,9,Maranhão III,Parnaiba Consolidated,348772.351
+258,2016,3,9,Maranhão IV,Parnaiba Consolidated,130290.86
+259,2016,3,9,Maranhão V,Parnaiba Consolidated,131230.097
+260,2016,3,9,Nova Venécia 2,Parnaiba Consolidated,53621.214
+261,2016,3,9,Parnaíba IV,Parnaiba Consolidated,2282.758
+262,2016,3,9,Porto do Itaqui,Coal Consolidated,110630.149
+263,2016,3,9,Porto do Pecém II,Coal Consolidated,82460.49
+264,2016,4,10,Fortaleza,Third-part LNG,121180.793
+265,2016,4,10,Maranhão III,Parnaiba Consolidated,352143.3644
+266,2016,4,10,Maranhão IV,Parnaiba Consolidated,238307.087
+267,2016,4,10,Maranhão V,Parnaiba Consolidated,239446.289
+268,2016,4,10,Nova Venécia 2,Parnaiba Consolidated,119173.0998
+269,2016,4,10,Parnaíba IV,Parnaiba Consolidated,0.0
+270,2016,4,10,Porto do Itaqui,Coal Consolidated,0.0
+271,2016,4,10,Porto do Pecém II,Coal Consolidated,60638.66
+272,2016,4,11,Fortaleza,Third-part LNG,116966.362
+273,2016,4,11,Maranhão III,Parnaiba Consolidated,347658.091
+274,2016,4,11,Maranhão IV,Parnaiba Consolidated,224069.21
+275,2016,4,11,Maranhão V,Parnaiba Consolidated,225268.782
+276,2016,4,11,Nova Venécia 2,Parnaiba Consolidated,114718.081
+277,2016,4,11,Parnaíba IV,Parnaiba Consolidated,0.0
+278,2016,4,11,Porto do Itaqui,Coal Consolidated,159496.272
+279,2016,4,11,Porto do Pecém II,Coal Consolidated,23800.273
+280,2016,4,12,Fortaleza,Third-part LNG,124291.29
+281,2016,4,12,Maranhão III,Parnaiba Consolidated,358168.045
+282,2016,4,12,Maranhão IV,Parnaiba Consolidated,173384.96
+283,2016,4,12,Maranhão V,Parnaiba Consolidated,175475.297
+284,2016,4,12,Nova Venécia 2,Parnaiba Consolidated,20205.701
+285,2016,4,12,Parnaíba IV,Parnaiba Consolidated,0.0
+286,2016,4,12,Porto do Itaqui,Coal Consolidated,120025.804
+287,2016,4,12,Porto do Pecém II,Coal Consolidated,160463.696
+288,2017,1,1,Fortaleza,Third-part LNG,201999.759
+289,2017,1,1,Maranhão III,Parnaiba Consolidated,354502.885
+290,2017,1,1,Maranhão IV,Parnaiba Consolidated,60746.126
+291,2017,1,1,Maranhão V,Parnaiba Consolidated,60591.735
+292,2017,1,1,Nova Venécia 2,Parnaiba Consolidated,0.0
+293,2017,1,1,Parnaíba IV,Parnaiba Consolidated,0.0
+294,2017,1,1,Porto do Itaqui,Coal Consolidated,3434.292
+295,2017,1,1,Porto do Pecém II,Coal Consolidated,193632.094
+296,2017,1,2,Fortaleza,Third-part LNG,164609.904
+297,2017,1,2,Maranhão III,Parnaiba Consolidated,173966.988
+298,2017,1,2,Maranhão IV,Parnaiba Consolidated,13829.086
+299,2017,1,2,Maranhão V,Parnaiba Consolidated,13905.675
+300,2017,1,2,Nova Venécia 2,Parnaiba Consolidated,0.0
+301,2017,1,2,Parnaíba IV,Parnaiba Consolidated,0.0
+302,2017,1,2,Porto do Itaqui,Coal Consolidated,17389.126
+303,2017,1,2,Porto do Pecém II,Coal Consolidated,181900.105
+304,2017,1,3,Fortaleza,Third-part LNG,243335.733
+305,2017,1,3,Maranhão III,Parnaiba Consolidated,0.0
+306,2017,1,3,Maranhão IV,Parnaiba Consolidated,748.553
+307,2017,1,3,Maranhão V,Parnaiba Consolidated,752.302
+308,2017,1,3,Nova Venécia 2,Parnaiba Consolidated,0.0
+309,2017,1,3,Parnaíba IV,Parnaiba Consolidated,0.0
+310,2017,1,3,Porto do Itaqui,Coal Consolidated,3149.332
+311,2017,1,3,Porto do Pecém II,Coal Consolidated,202481.114
+312,2017,2,4,Fortaleza,Third-part LNG,217776.665
+313,2017,2,4,Maranhão III,Parnaiba Consolidated,4248.67
+314,2017,2,4,Maranhão IV,Parnaiba Consolidated,0.0
+315,2017,2,4,Maranhão V,Parnaiba Consolidated,0.0
+316,2017,2,4,Nova Venécia 2,Parnaiba Consolidated,0.0
+317,2017,2,4,Parnaíba IV,Parnaiba Consolidated,0.0
+318,2017,2,4,Porto do Itaqui,Coal Consolidated,0.003
+319,2017,2,4,Porto do Pecém II,Coal Consolidated,228382.307
+320,2017,2,5,Fortaleza,Third-part LNG,188946.054
+321,2017,2,5,Maranhão III,Parnaiba Consolidated,29318.425
+322,2017,2,5,Maranhão IV,Parnaiba Consolidated,21717.6
+323,2017,2,5,Maranhão V,Parnaiba Consolidated,18844.817
+324,2017,2,5,Nova Venécia 2,Parnaiba Consolidated,0.0
+325,2017,2,5,Parnaíba IV,Parnaiba Consolidated,0.0
+326,2017,2,5,Porto do Itaqui,Coal Consolidated,17220.756
+327,2017,2,5,Porto do Pecém II,Coal Consolidated,226682.782
+328,2017,2,6,Fortaleza,Third-part LNG,197793.937
+329,2017,2,6,Maranhão III,Parnaiba Consolidated,348341.372
+330,2017,2,6,Maranhão IV,Parnaiba Consolidated,100264.65
+331,2017,2,6,Maranhão V,Parnaiba Consolidated,101067.681
+332,2017,2,6,Nova Venécia 2,Parnaiba Consolidated,2078.79
+333,2017,2,6,Parnaíba IV,Parnaiba Consolidated,0.0
+334,2017,2,6,Porto do Itaqui,Coal Consolidated,84254.212
+335,2017,2,6,Porto do Pecém II,Coal Consolidated,147383.878
+336,2017,3,7,Fortaleza,Third-part LNG,239249.382
+337,2017,3,7,Maranhão III,Parnaiba Consolidated,374476.995
+338,2017,3,7,Maranhão IV,Parnaiba Consolidated,239658.087
+339,2017,3,7,Maranhão V,Parnaiba Consolidated,240683.335
+340,2017,3,7,Nova Venécia 2,Parnaiba Consolidated,126603.899
+341,2017,3,7,Parnaíba IV,Parnaiba Consolidated,0.0
+342,2017,3,7,Porto do Itaqui,Coal Consolidated,257211.074
+343,2017,3,7,Porto do Pecém II,Coal Consolidated,0.0
+344,2017,3,8,Fortaleza,Third-part LNG,242753.242
+345,2017,3,8,Maranhão III,Parnaiba Consolidated,375788.503
+346,2017,3,8,Maranhão IV,Parnaiba Consolidated,203943.925
+347,2017,3,8,Maranhão V,Parnaiba Consolidated,199431.72
+348,2017,3,8,Nova Venécia 2,Parnaiba Consolidated,108121.745
+349,2017,3,8,Parnaíba IV,Parnaiba Consolidated,15763.156
+350,2017,3,8,Porto do Itaqui,Coal Consolidated,257272.406
+351,2017,3,8,Porto do Pecém II,Coal Consolidated,178667.689
+352,2017,3,9,Fortaleza,Third-part LNG,133489.51
+353,2017,3,9,Maranhão III,Parnaiba Consolidated,329920.601
+354,2017,3,9,Maranhão IV,Parnaiba Consolidated,155667.393
+355,2017,3,9,Maranhão V,Parnaiba Consolidated,155713.773
+356,2017,3,9,Nova Venécia 2,Parnaiba Consolidated,81748.57
+357,2017,3,9,Parnaíba IV,Parnaiba Consolidated,24643.604
+358,2017,3,9,Porto do Itaqui,Coal Consolidated,258269.992
+359,2017,3,9,Porto do Pecém II,Coal Consolidated,222957.72
+360,2017,4,10,Fortaleza,Third-part LNG,0.0
+361,2017,4,10,Maranhão III,Parnaiba Consolidated,347526.166
+362,2017,4,10,Maranhão IV,Parnaiba Consolidated,237120.546
+363,2017,4,10,Maranhão V,Parnaiba Consolidated,237088.945
+364,2017,4,10,Nova Venécia 2,Parnaiba Consolidated,116305.968
+365,2017,4,10,Parnaíba IV,Parnaiba Consolidated,38830.658
+366,2017,4,10,Porto do Itaqui,Coal Consolidated,263992.514
+367,2017,4,10,Porto do Pecém II,Coal Consolidated,230674.761
+368,2017,4,11,Fortaleza,Third-part LNG,0.0
+369,2017,4,11,Maranhão III,Parnaiba Consolidated,348943.418
+370,2017,4,11,Maranhão IV,Parnaiba Consolidated,220776.072
+371,2017,4,11,Maranhão V,Parnaiba Consolidated,220427.932
+372,2017,4,11,Nova Venécia 2,Parnaiba Consolidated,98099.914
+373,2017,4,11,Parnaíba IV,Parnaiba Consolidated,37386.327
+374,2017,4,11,Porto do Itaqui,Coal Consolidated,254437.361
+375,2017,4,11,Porto do Pecém II,Coal Consolidated,254799.79
+376,2017,4,12,Fortaleza,Third-part LNG,204599.216
+377,2017,4,12,Maranhão III,Parnaiba Consolidated,341178.836
+378,2017,4,12,Maranhão IV,Parnaiba Consolidated,238403.427
+379,2017,4,12,Maranhão V,Parnaiba Consolidated,238619.149
+380,2017,4,12,Nova Venécia 2,Parnaiba Consolidated,113673.175
+381,2017,4,12,Parnaíba IV,Parnaiba Consolidated,39006.214
+382,2017,4,12,Porto do Itaqui,Coal Consolidated,252277.238
+383,2017,4,12,Porto do Pecém II,Coal Consolidated,194787.54
+384,2018,1,1,Fortaleza,Third-part LNG,226850.018
+385,2018,1,1,Maranhão III,Parnaiba Consolidated,373191.676
+386,2018,1,1,Maranhão IV,Parnaiba Consolidated,201507.329
+387,2018,1,1,Maranhão V,Parnaiba Consolidated,205062.197
+388,2018,1,1,Nova Venécia 2,Parnaiba Consolidated,759.441
+389,2018,1,1,Parnaíba IV,Parnaiba Consolidated,30810.121
+390,2018,1,1,Porto do Itaqui,Coal Consolidated,2013.634
+391,2018,1,1,Porto do Pecém II,Coal Consolidated,151633.36
+392,2018,1,2,Fortaleza,Third-part LNG,198996.556
+393,2018,1,2,Maranhão III,Parnaiba Consolidated,23784.5
+394,2018,1,2,Maranhão IV,Parnaiba Consolidated,0.0
+395,2018,1,2,Maranhão V,Parnaiba Consolidated,0.0
+396,2018,1,2,Nova Venécia 2,Parnaiba Consolidated,0.0
+397,2018,1,2,Parnaíba IV,Parnaiba Consolidated,88.88
+398,2018,1,2,Porto do Itaqui,Coal Consolidated,56750.215
+399,2018,1,2,Porto do Pecém II,Coal Consolidated,179309.641
+400,2018,1,3,Fortaleza,Third-part LNG,0.0
+401,2018,1,3,Maranhão III,Parnaiba Consolidated,0.0
+402,2018,1,3,Maranhão IV,Parnaiba Consolidated,0.53
+403,2018,1,3,Maranhão V,Parnaiba Consolidated,0.0
+404,2018,1,3,Nova Venécia 2,Parnaiba Consolidated,0.04
+405,2018,1,3,Parnaíba IV,Parnaiba Consolidated,0.0
+406,2018,1,3,Porto do Itaqui,Coal Consolidated,0.001
+407,2018,1,3,Porto do Pecém II,Coal Consolidated,253934.579
+408,2018,2,4,Fortaleza,Third-part LNG,0.0
+409,2018,2,4,Maranhão III,Parnaiba Consolidated,76699.355
+410,2018,2,4,Maranhão IV,Parnaiba Consolidated,4983.05
+411,2018,2,4,Maranhão V,Parnaiba Consolidated,1453.33
+412,2018,2,4,Nova Venécia 2,Parnaiba Consolidated,766.49
+413,2018,2,4,Parnaíba IV,Parnaiba Consolidated,12.874
+414,2018,2,4,Porto do Itaqui,Coal Consolidated,0.002
+415,2018,2,4,Porto do Pecém II,Coal Consolidated,154005.22
+416,2018,2,5,Fortaleza,Third-part LNG,0.0
+417,2018,2,5,Maranhão III,Parnaiba Consolidated,6459.213
+418,2018,2,5,Maranhão IV,Parnaiba Consolidated,626.177
+419,2018,2,5,Maranhão V,Parnaiba Consolidated,694.5029999999999
+420,2018,2,5,Nova Venécia 2,Parnaiba Consolidated,0.0
+421,2018,2,5,Parnaíba IV,Parnaiba Consolidated,481.668
+422,2018,2,5,Porto do Itaqui,Coal Consolidated,0.002
+423,2018,2,5,Porto do Pecém II,Coal Consolidated,53107.45
+424,2018,2,6,Fortaleza,Third-part LNG,139150.139
+425,2018,2,6,Maranhão III,Parnaiba Consolidated,351379.983
+426,2018,2,6,Maranhão IV,Parnaiba Consolidated,138611.58
+427,2018,2,6,Maranhão V,Parnaiba Consolidated,152800.245
+428,2018,2,6,Nova Venécia 2,Parnaiba Consolidated,75156.484
+429,2018,2,6,Parnaíba IV,Parnaiba Consolidated,17929.0
+430,2018,2,6,Porto do Itaqui,Coal Consolidated,192426.015
+431,2018,2,6,Porto do Pecém II,Coal Consolidated,174171.76
+432,2018,3,7,Fortaleza,Third-part LNG,0.0
+433,2018,3,7,Maranhão III,Parnaiba Consolidated,370386.697
+434,2018,3,7,Maranhão IV,Parnaiba Consolidated,239087.624
+435,2018,3,7,Maranhão V,Parnaiba Consolidated,239928.001
+436,2018,3,7,Nova Venécia 2,Parnaiba Consolidated,125834.111
+437,2018,3,7,Parnaíba IV,Parnaiba Consolidated,24826.533
+438,2018,3,7,Porto do Itaqui,Coal Consolidated,121584.557
+439,2018,3,7,Porto do Pecém II,Coal Consolidated,260275.3
+440,2018,3,8,Fortaleza,Third-part LNG,0.0
+441,2018,3,8,Maranhão III,Parnaiba Consolidated,357521.7
+442,2018,3,8,Maranhão IV,Parnaiba Consolidated,243528.356
+443,2018,3,8,Maranhão V,Parnaiba Consolidated,237695.636
+444,2018,3,8,Nova Venécia 2,Parnaiba Consolidated,127644.74
+445,2018,3,8,Parnaíba IV,Parnaiba Consolidated,31614.442
+446,2018,3,8,Porto do Itaqui,Coal Consolidated,258322.055
+447,2018,3,8,Porto do Pecém II,Coal Consolidated,230879.41
+448,2018,3,9,Fortaleza,Third-part LNG,0.0
+449,2018,3,9,Maranhão III,Parnaiba Consolidated,358840.624
+450,2018,3,9,Maranhão IV,Parnaiba Consolidated,224928.001
+451,2018,3,9,Maranhão V,Parnaiba Consolidated,231744.826
+452,2018,3,9,Nova Venécia 2,Parnaiba Consolidated,117391.419
+453,2018,3,9,Parnaíba IV,Parnaiba Consolidated,39449.383
+454,2018,3,9,Porto do Itaqui,Coal Consolidated,251206.834
+455,2018,3,9,Porto do Pecém II,Coal Consolidated,247983.91
+456,2018,4,10,Fortaleza,Third-part LNG,0.0
+457,2018,4,10,Maranhão III,Parnaiba Consolidated,348187.813
+458,2018,4,10,Maranhão IV,Parnaiba Consolidated,186082.988
+459,2018,4,10,Maranhão V,Parnaiba Consolidated,200987.664
+460,2018,4,10,Nova Venécia 2,Parnaiba Consolidated,105901.329
+461,2018,4,10,Parnaíba IV,Parnaiba Consolidated,41077.141
+462,2018,4,10,Porto do Itaqui,Coal Consolidated,236242.287
+463,2018,4,10,Porto do Pecém II,Coal Consolidated,116820.58
+464,2018,4,11,Fortaleza,Third-part LNG,0.0
+465,2018,4,11,Maranhão III,Parnaiba Consolidated,357302.655
+466,2018,4,11,Maranhão IV,Parnaiba Consolidated,0.015
+467,2018,4,11,Maranhão V,Parnaiba Consolidated,1.679
+468,2018,4,11,Nova Venécia 2,Parnaiba Consolidated,0.0
+469,2018,4,11,Parnaíba IV,Parnaiba Consolidated,36122.093
+470,2018,4,11,Porto do Itaqui,Coal Consolidated,0.0
+471,2018,4,11,Porto do Pecém II,Coal Consolidated,81627.68
+472,2018,4,12,Fortaleza,Third-part LNG,0.09
+473,2018,4,12,Maranhão III,Parnaiba Consolidated,299.31
+474,2018,4,12,Maranhão IV,Parnaiba Consolidated,0.0
+475,2018,4,12,Maranhão V,Parnaiba Consolidated,0.0
+476,2018,4,12,Nova Venécia 2,Parnaiba Consolidated,0.0
+477,2018,4,12,Parnaíba IV,Parnaiba Consolidated,0.0
+478,2018,4,12,Porto do Itaqui,Coal Consolidated,42027.11
+479,2018,4,12,Porto do Pecém II,Coal Consolidated,112163.76
+480,2019,1,1,Fortaleza,Third-part LNG,9457.03
+481,2019,1,1,Maranhão III,Parnaiba Consolidated,233856.601
+482,2019,1,1,Maranhão IV,Parnaiba Consolidated,0.0
+483,2019,1,1,Maranhão V,Parnaiba Consolidated,0.0
+484,2019,1,1,Nova Venécia 2,Parnaiba Consolidated,0.0
+485,2019,1,1,Parnaíba IV,Parnaiba Consolidated,0.0
+486,2019,1,1,Porto do Itaqui,Coal Consolidated,1555.54
+487,2019,1,1,Porto do Pecém II,Coal Consolidated,43729.51
+488,2019,1,2,Fortaleza,Third-part LNG,113603.605
+489,2019,1,2,Maranhão III,Parnaiba Consolidated,12361.355
+490,2019,1,2,Maranhão IV,Parnaiba Consolidated,152.74
+491,2019,1,2,Maranhão V,Parnaiba Consolidated,0.0
+492,2019,1,2,Nova Venécia 2,Parnaiba Consolidated,0.0
+493,2019,1,2,Parnaíba IV,Parnaiba Consolidated,0.0
+494,2019,1,2,Porto do Itaqui,Coal Consolidated,0.0
+495,2019,1,2,Porto do Pecém II,Coal Consolidated,188231.4
+496,2019,1,3,Fortaleza,Third-part LNG,48098.21
+497,2019,1,3,Maranhão III,Parnaiba Consolidated,0.0
+498,2019,1,3,Maranhão IV,Parnaiba Consolidated,83.493
+499,2019,1,3,Maranhão V,Parnaiba Consolidated,0.0
+500,2019,1,3,Nova Venécia 2,Parnaiba Consolidated,0.0
+501,2019,1,3,Parnaíba IV,Parnaiba Consolidated,0.0
+502,2019,1,3,Porto do Itaqui,Coal Consolidated,28764.3
+503,2019,1,3,Porto do Pecém II,Coal Consolidated,160304.06
+504,2019,2,4,Fortaleza,Third-part LNG,44103.121
+505,2019,2,4,Maranhão III,Parnaiba Consolidated,0.0
+506,2019,2,4,Maranhão IV,Parnaiba Consolidated,4538.4619999999995
+507,2019,2,4,Maranhão V,Parnaiba Consolidated,970.14
+508,2019,2,4,Nova Venécia 2,Parnaiba Consolidated,0.0
+509,2019,2,4,Parnaíba IV,Parnaiba Consolidated,0.0
+510,2019,2,4,Porto do Itaqui,Coal Consolidated,0.0
+511,2019,2,4,Porto do Pecém II,Coal Consolidated,180813.919
+512,2019,2,5,Fortaleza,Third-part LNG,41575.58
+513,2019,2,5,Maranhão III,Parnaiba Consolidated,3547.5389999999998
+514,2019,2,5,Maranhão IV,Parnaiba Consolidated,1798.626
+515,2019,2,5,Maranhão V,Parnaiba Consolidated,0.0
+516,2019,2,5,Nova Venécia 2,Parnaiba Consolidated,0.0
+517,2019,2,5,Parnaíba IV,Parnaiba Consolidated,111.481
+518,2019,2,5,Porto do Itaqui,Coal Consolidated,0.0
+519,2019,2,5,Porto do Pecém II,Coal Consolidated,143131.836
+520,2019,2,6,Fortaleza,Third-part LNG,0.0
+521,2019,2,6,Maranhão III,Parnaiba Consolidated,343664.615
+522,2019,2,6,Maranhão IV,Parnaiba Consolidated,0.0
+523,2019,2,6,Maranhão V,Parnaiba Consolidated,0.0
+524,2019,2,6,Nova Venécia 2,Parnaiba Consolidated,787.571
+525,2019,2,6,Parnaíba IV,Parnaiba Consolidated,0.0
+526,2019,2,6,Porto do Itaqui,Coal Consolidated,0.0
+527,2019,2,6,Porto do Pecém II,Coal Consolidated,0.0
+528,2019,3,7,Fortaleza,Third-part LNG,80629.18000000001
+529,2019,3,7,Maranhão III,Parnaiba Consolidated,368645.897
+530,2019,3,7,Maranhão IV,Parnaiba Consolidated,162136.978
+531,2019,3,7,Maranhão V,Parnaiba Consolidated,162809.39
+532,2019,3,7,Nova Venécia 2,Parnaiba Consolidated,0.0
+533,2019,3,7,Parnaíba IV,Parnaiba Consolidated,27651.146
+534,2019,3,7,Porto do Itaqui,Coal Consolidated,204413.329
+535,2019,3,7,Porto do Pecém II,Coal Consolidated,200180.881
+536,2019,3,8,Fortaleza,Third-part LNG,160475.462
+537,2019,3,8,Maranhão III,Parnaiba Consolidated,363083.237
+538,2019,3,8,Maranhão IV,Parnaiba Consolidated,190837.523
+539,2019,3,8,Maranhão V,Parnaiba Consolidated,191481.854
+540,2019,3,8,Nova Venécia 2,Parnaiba Consolidated,25916.33
+541,2019,3,8,Parnaíba IV,Parnaiba Consolidated,31914.993
+542,2019,3,8,Porto do Itaqui,Coal Consolidated,197068.555
+543,2019,3,8,Porto do Pecém II,Coal Consolidated,45223.373
+544,2019,3,9,Fortaleza,Third-part LNG,216278.958
+545,2019,3,9,Maranhão III,Parnaiba Consolidated,345322.575
+546,2019,3,9,Maranhão IV,Parnaiba Consolidated,227502.201
+547,2019,3,9,Maranhão V,Parnaiba Consolidated,227196.156
+548,2019,3,9,Nova Venécia 2,Parnaiba Consolidated,62252.718
+549,2019,3,9,Parnaíba IV,Parnaiba Consolidated,34835.013
+550,2019,3,9,Porto do Itaqui,Coal Consolidated,255634.145
+551,2019,3,9,Porto do Pecém II,Coal Consolidated,0.0
+552,2019,4,10,Fortaleza,Third-part LNG,221670.555
+553,2019,4,10,Maranhão III,Parnaiba Consolidated,363486.19
+554,2019,4,10,Maranhão IV,Parnaiba Consolidated,223637.072
+555,2019,4,10,Maranhão V,Parnaiba Consolidated,223928.984
+556,2019,4,10,Nova Venécia 2,Parnaiba Consolidated,112639.789
+557,2019,4,10,Parnaíba IV,Parnaiba Consolidated,29737.326
+558,2019,4,10,Porto do Itaqui,Coal Consolidated,239913.954
+559,2019,4,10,Porto do Pecém II,Coal Consolidated,161943.492
+560,2019,4,11,Fortaleza,Third-part LNG,177634.078
+561,2019,4,11,Maranhão III,Parnaiba Consolidated,352910.204
+562,2019,4,11,Maranhão IV,Parnaiba Consolidated,230207.775
+563,2019,4,11,Maranhão V,Parnaiba Consolidated,229731.13
+564,2019,4,11,Nova Venécia 2,Parnaiba Consolidated,119612.434
+565,2019,4,11,Parnaíba IV,Parnaiba Consolidated,38364.828
+566,2019,4,11,Porto do Itaqui,Coal Consolidated,253657.695
+567,2019,4,11,Porto do Pecém II,Coal Consolidated,256186.585
+568,2019,4,12,Fortaleza,Third-part LNG,74119.29
+569,2019,4,12,Maranhão III,Parnaiba Consolidated,356721.443
+570,2019,4,12,Maranhão IV,Parnaiba Consolidated,233926.794
+571,2019,4,12,Maranhão V,Parnaiba Consolidated,233364.167
+572,2019,4,12,Nova Venécia 2,Parnaiba Consolidated,70857.342
+573,2019,4,12,Parnaíba IV,Parnaiba Consolidated,38875.958
+574,2019,4,12,Porto de Sergipe I,Third-part LNG,353.153
+575,2019,4,12,Porto do Itaqui,Coal Consolidated,261503.186
+576,2019,4,12,Porto do Pecém II,Coal Consolidated,255291.227
+577,2020,1,1,Fortaleza,Third-part LNG,117389.457
+578,2020,1,1,Maranhão III,Parnaiba Consolidated,376680.647
+579,2020,1,1,Maranhão IV,Parnaiba Consolidated,237584.455
+580,2020,1,1,Maranhão V,Parnaiba Consolidated,235852.527
+581,2020,1,1,Nova Venécia 2,Parnaiba Consolidated,125697.459
+582,2020,1,1,Parnaíba IV,Parnaiba Consolidated,39822.339
+583,2020,1,1,Porto de Sergipe I,Third-part LNG,37904.998
+584,2020,1,1,Porto do Itaqui,Coal Consolidated,260708.163
+585,2020,1,1,Porto do Pecém II,Coal Consolidated,266559.358
+586,2020,1,2,Fortaleza,Third-part LNG,99924.92
+587,2020,1,2,Maranhão III,Parnaiba Consolidated,269771.874
+588,2020,1,2,Maranhão IV,Parnaiba Consolidated,168242.706
+589,2020,1,2,Maranhão V,Parnaiba Consolidated,161354.795
+590,2020,1,2,Nova Venécia 2,Parnaiba Consolidated,793.997
+591,2020,1,2,Parnaíba IV,Parnaiba Consolidated,10471.945
+592,2020,1,2,Porto de Sergipe I,Third-part LNG,63753.522
+593,2020,1,2,Porto do Itaqui,Coal Consolidated,154771.487
+594,2020,1,2,Porto do Pecém II,Coal Consolidated,112298.279
+595,2020,1,3,Fortaleza,Third-part LNG,0.0
+596,2020,1,3,Maranhão III,Parnaiba Consolidated,28975.909
+597,2020,1,3,Maranhão IV,Parnaiba Consolidated,14750.076
+598,2020,1,3,Maranhão V,Parnaiba Consolidated,14603.177
+599,2020,1,3,Nova Venécia 2,Parnaiba Consolidated,2230.133
+600,2020,1,3,Parnaíba IV,Parnaiba Consolidated,0.0
+601,2020,1,3,Porto de Sergipe I,Third-part LNG,253991.263
+602,2020,1,3,Porto do Itaqui,Coal Consolidated,0.0
+603,2020,1,3,Porto do Pecém II,Coal Consolidated,0.0
+604,2020,2,4,Fortaleza,Third-part LNG,0.0
+605,2020,2,4,Maranhão III,Parnaiba Consolidated,2.016
+606,2020,2,4,Maranhão IV,Parnaiba Consolidated,0.275
+607,2020,2,4,Maranhão V,Parnaiba Consolidated,2853.89
+608,2020,2,4,Nova Venécia 2,Parnaiba Consolidated,187.3
+609,2020,2,4,Parnaíba IV,Parnaiba Consolidated,0.0
+610,2020,2,4,Porto de Sergipe I,Third-part LNG,230991.831
+611,2020,2,4,Porto do Itaqui,Coal Consolidated,0.0
+612,2020,2,4,Porto do Pecém II,Coal Consolidated,0.0
+613,2020,2,5,Fortaleza,Third-part LNG,0.0
+614,2020,2,5,Maranhão III,Parnaiba Consolidated,6170.243
+615,2020,2,5,Maranhão IV,Parnaiba Consolidated,0.0
+616,2020,2,5,Maranhão V,Parnaiba Consolidated,3256.964
+617,2020,2,5,Nova Venécia 2,Parnaiba Consolidated,7.035
+618,2020,2,5,Parnaíba IV,Parnaiba Consolidated,0.0
+619,2020,2,5,Porto de Sergipe I,Third-part LNG,282031.602
+620,2020,2,5,Porto do Itaqui,Coal Consolidated,0.0
+621,2020,2,5,Porto do Pecém II,Coal Consolidated,0.0
+622,2020,2,6,Fortaleza,Third-part LNG,0.0
+623,2020,2,6,Maranhão III,Parnaiba Consolidated,352786.814
+624,2020,2,6,Maranhão IV,Parnaiba Consolidated,0.0
+625,2020,2,6,Maranhão V,Parnaiba Consolidated,700.001
+626,2020,2,6,Nova Venécia 2,Parnaiba Consolidated,0.0
+627,2020,2,6,Parnaíba IV,Parnaiba Consolidated,185.75300000000001
+628,2020,2,6,Porto de Sergipe I,Third-part LNG,0.004
+629,2020,2,6,Porto do Itaqui,Coal Consolidated,0.0
+630,2020,2,6,Porto do Pecém II,Coal Consolidated,0.0
+631,2020,3,7,Fortaleza,Third-part LNG,0.0
+632,2020,3,7,Maranhão III,Parnaiba Consolidated,327749.479
+633,2020,3,7,Maranhão IV,Parnaiba Consolidated,7449.666
+634,2020,3,7,Maranhão V,Parnaiba Consolidated,14761.165
+635,2020,3,7,Nova Venécia 2,Parnaiba Consolidated,0.0
+636,2020,3,7,Parnaíba IV,Parnaiba Consolidated,680.338
+637,2020,3,7,Porto de Sergipe I,Third-part LNG,13319.851
+638,2020,3,7,Porto do Itaqui,Coal Consolidated,0.0
+639,2020,3,7,Porto do Pecém II,Coal Consolidated,0.0
+640,2020,3,8,Fortaleza,Third-part LNG,0.0
+641,2020,3,8,Maranhão III,Parnaiba Consolidated,363360.207
+642,2020,3,8,Maranhão IV,Parnaiba Consolidated,0.0
+643,2020,3,8,Maranhão V,Parnaiba Consolidated,712.823
+644,2020,3,8,Nova Venécia 2,Parnaiba Consolidated,0.0
+645,2020,3,8,Parnaíba IV,Parnaiba Consolidated,0.0
+646,2020,3,8,Porto de Sergipe I,Third-part LNG,17455.392
+647,2020,3,8,Porto do Itaqui,Coal Consolidated,0.0
+648,2020,3,8,Porto do Pecém II,Coal Consolidated,0.0
+649,2020,3,9,Fortaleza,Third-part LNG,2.04
+650,2020,3,9,Maranhão III,Parnaiba Consolidated,341937.022
+651,2020,3,9,Maranhão IV,Parnaiba Consolidated,700.784
+652,2020,3,9,Maranhão V,Parnaiba Consolidated,6.558
+653,2020,3,9,Nova Venécia 2,Parnaiba Consolidated,6.193
+654,2020,3,9,Parnaíba IV,Parnaiba Consolidated,6594.8330000000005
+655,2020,3,9,Porto de Sergipe I,Third-part LNG,160242.075
+656,2020,3,9,Porto do Itaqui,Coal Consolidated,0.0
+657,2020,3,9,Porto do Pecém II,Coal Consolidated,0.0
+658,2020,4,10,Fortaleza,Third-part LNG,0.0
+659,2020,4,10,Maranhão III,Parnaiba Consolidated,364992.597
+660,2020,4,10,Maranhão IV,Parnaiba Consolidated,185726.587
+661,2020,4,10,Maranhão V,Parnaiba Consolidated,212343.339
+662,2020,4,10,Nova Venécia 2,Parnaiba Consolidated,94251.824
+663,2020,4,10,Parnaíba IV,Parnaiba Consolidated,40316.162
+664,2020,4,10,Porto de Sergipe I,Third-part LNG,0.002
+665,2020,4,10,Porto do Itaqui,Coal Consolidated,224557.975
+666,2020,4,10,Porto do Pecém II,Coal Consolidated,199600.663
+667,2020,4,11,Fortaleza,Third-part LNG,0.0
+668,2020,4,11,Maranhão III,Parnaiba Consolidated,356534.907
+669,2020,4,11,Maranhão IV,Parnaiba Consolidated,219040.806
+670,2020,4,11,Maranhão V,Parnaiba Consolidated,223263.613
+671,2020,4,11,Nova Venécia 2,Parnaiba Consolidated,80781.843
+672,2020,4,11,Parnaíba IV,Parnaiba Consolidated,37098.216
+673,2020,4,11,Porto de Sergipe I,Third-part LNG,0.002
+674,2020,4,11,Porto do Itaqui,Coal Consolidated,221078.613
+675,2020,4,11,Porto do Pecém II,Coal Consolidated,186813.213
+676,2020,4,12,Fortaleza,Third-part LNG,7273.467
+677,2020,4,12,Maranhão III,Parnaiba Consolidated,346239.745
+678,2020,4,12,Maranhão IV,Parnaiba Consolidated,232300.021
+679,2020,4,12,Maranhão V,Parnaiba Consolidated,232146.159
+680,2020,4,12,Nova Venécia 2,Parnaiba Consolidated,73379.811
+681,2020,4,12,Parnaíba IV,Parnaiba Consolidated,35887.261
+682,2020,4,12,Porto de Sergipe I,Third-part LNG,23476.491
+683,2020,4,12,Porto do Itaqui,Coal Consolidated,254089.30299999999
+684,2020,4,12,Porto do Pecém II,Coal Consolidated,248040.349
+685,2021,1,1,Fortaleza,Third-part LNG,238499.788
+686,2021,1,1,Maranhão III,Parnaiba Consolidated,372262.498
+687,2021,1,1,Maranhão IV,Parnaiba Consolidated,233271.643
+688,2021,1,1,Maranhão V,Parnaiba Consolidated,234947.988
+689,2021,1,1,Nova Venécia 2,Parnaiba Consolidated,123740.523
+690,2021,1,1,Parnaíba IV,Parnaiba Consolidated,27047.565
+691,2021,1,1,Porto de Sergipe I,Third-part LNG,0.008
+692,2021,1,1,Porto do Itaqui,Coal Consolidated,187001.854
+693,2021,1,1,Porto do Pecém II,Coal Consolidated,251229.563
+694,2021,1,2,Fortaleza,Third-part LNG,135437.526
+695,2021,1,2,Maranhão III,Parnaiba Consolidated,57720.874
+696,2021,1,2,Maranhão IV,Parnaiba Consolidated,181075.605
+697,2021,1,2,Maranhão V,Parnaiba Consolidated,189342.2
+698,2021,1,2,Nova Venécia 2,Parnaiba Consolidated,69295.426
+699,2021,1,2,Parnaíba IV,Parnaiba Consolidated,22784.098
+700,2021,1,2,Porto de Sergipe I,Third-part LNG,0.0
+701,2021,1,2,Porto do Itaqui,Coal Consolidated,0.0
+702,2021,1,2,Porto do Pecém II,Coal Consolidated,164537.907
+703,2021,1,3,Fortaleza,Third-part LNG,0.0
+704,2021,1,3,Maranhão III,Parnaiba Consolidated,833.1310000000001
+705,2021,1,3,Maranhão IV,Parnaiba Consolidated,0.0
+706,2021,1,3,Maranhão V,Parnaiba Consolidated,0.0
+707,2021,1,3,Nova Venécia 2,Parnaiba Consolidated,0.0
+708,2021,1,3,Parnaíba IV,Parnaiba Consolidated,0.0
+709,2021,1,3,Porto de Sergipe I,Third-part LNG,0.0
+710,2021,1,3,Porto do Itaqui,Coal Consolidated,0.0
+711,2021,1,3,Porto do Pecém II,Coal Consolidated,0.0
+712,2021,2,4,Fortaleza,Third-part LNG,0.0
+713,2021,2,4,Maranhão III,Parnaiba Consolidated,174555.329
+714,2021,2,4,Maranhão IV,Parnaiba Consolidated,1439.357
+715,2021,2,4,Maranhão V,Parnaiba Consolidated,1063.325
+716,2021,2,4,Nova Venécia 2,Parnaiba Consolidated,862.3399999999999
+717,2021,2,4,Parnaíba IV,Parnaiba Consolidated,4051.302
+718,2021,2,4,Porto de Sergipe I,Third-part LNG,0.0
+719,2021,2,4,Porto do Itaqui,Coal Consolidated,4882.252
+720,2021,2,4,Porto do Pecém II,Coal Consolidated,0.0
+721,2021,2,5,Fortaleza,Third-part LNG,0.0
+722,2021,2,5,Maranhão III,Parnaiba Consolidated,288873.597
+723,2021,2,5,Maranhão IV,Parnaiba Consolidated,187162.655
+724,2021,2,5,Maranhão V,Parnaiba Consolidated,185487.618
+725,2021,2,5,Nova Venécia 2,Parnaiba Consolidated,57976.139
+726,2021,2,5,Parnaíba IV,Parnaiba Consolidated,21964.325
+727,2021,2,5,Porto de Sergipe I,Third-part LNG,0.0
+728,2021,2,5,Porto do Itaqui,Coal Consolidated,115961.197
+729,2021,2,5,Porto do Pecém II,Coal Consolidated,76583.826
+730,2021,2,6,Fortaleza,Third-part LNG,0.0
+731,2021,2,6,Maranhão III,Parnaiba Consolidated,224873.824
+732,2021,2,6,Maranhão IV,Parnaiba Consolidated,232334.992
+733,2021,2,6,Maranhão V,Parnaiba Consolidated,231542.028
+734,2021,2,6,Nova Venécia 2,Parnaiba Consolidated,122822.654
+735,2021,2,6,Parnaíba IV,Parnaiba Consolidated,31431.771
+736,2021,2,6,Porto de Sergipe I,Third-part LNG,10515.322
+737,2021,2,6,Porto do Itaqui,Coal Consolidated,228476.233
+738,2021,2,6,Porto do Pecém II,Coal Consolidated,258297.589
+739,2021,3,7,Fortaleza,Third-part LNG,0.0
+740,2021,3,7,Maranhão III,Parnaiba Consolidated,233628.161
+741,2021,3,7,Maranhão IV,Parnaiba Consolidated,239616.724
+742,2021,3,7,Maranhão V,Parnaiba Consolidated,239656.267
+743,2021,3,7,Nova Venécia 2,Parnaiba Consolidated,126511.542
+744,2021,3,7,Parnaíba IV,Parnaiba Consolidated,39154.488
+745,2021,3,7,Porto de Sergipe I,Third-part LNG,647143.476
+746,2021,3,7,Porto do Itaqui,Coal Consolidated,216944.296
+747,2021,3,7,Porto do Pecém II,Coal Consolidated,246753.406
+748,2021,3,8,Fortaleza,Third-part LNG,0.0
+749,2021,3,8,Maranhão III,Parnaiba Consolidated,370498.224
+750,2021,3,8,Maranhão IV,Parnaiba Consolidated,237020.668
+751,2021,3,8,Maranhão V,Parnaiba Consolidated,234858.444
+752,2021,3,8,Nova Venécia 2,Parnaiba Consolidated,126862.564
+753,2021,3,8,Parnaíba IV,Parnaiba Consolidated,39344.016
+754,2021,3,8,Porto de Sergipe I,Third-part LNG,777943.072
+755,2021,3,8,Porto do Itaqui,Coal Consolidated,235342.115
+756,2021,3,8,Porto do Pecém II,Coal Consolidated,248929.938
+757,2021,3,9,Fortaleza,Third-part LNG,0.0
+758,2021,3,9,Maranhão III,Parnaiba Consolidated,353687.447
+759,2021,3,9,Maranhão IV,Parnaiba Consolidated,230003.151
+760,2021,3,9,Maranhão V,Parnaiba Consolidated,231628.066
+761,2021,3,9,Nova Venécia 2,Parnaiba Consolidated,120224.772
+762,2021,3,9,Parnaíba IV,Parnaiba Consolidated,38844.707
+763,2021,3,9,Porto de Sergipe I,Third-part LNG,744160.022
+764,2021,3,9,Porto do Itaqui,Coal Consolidated,231125.047
+765,2021,3,9,Porto do Pecém II,Coal Consolidated,234325.291
+766,2021,4,10,Fortaleza,Third-part LNG,0.0
+767,2021,4,10,Maranhão III,Parnaiba Consolidated,347438.113
+768,2021,4,10,Maranhão IV,Parnaiba Consolidated,239593.417
+769,2021,4,10,Maranhão V,Parnaiba Consolidated,238136.314
+770,2021,4,10,Nova Venécia 2,Parnaiba Consolidated,125851.974
+771,2021,4,10,Parnaíba IV,Parnaiba Consolidated,38349.43
+772,2021,4,10,Porto de Sergipe I,Third-part LNG,760143.646
+773,2021,4,10,Porto do Itaqui,Coal Consolidated,261787.015
+774,2021,4,10,Porto do Pecém II,Coal Consolidated,269187.164
+775,2021,4,11,Fortaleza,Third-part LNG,0.0
+776,2021,4,11,Maranhão III,Parnaiba Consolidated,353438.319
+777,2021,4,11,Maranhão IV,Parnaiba Consolidated,208470.506
+778,2021,4,11,Maranhão V,Parnaiba Consolidated,204427.25
+779,2021,4,11,Nova Venécia 2,Parnaiba Consolidated,110011.907
+780,2021,4,11,Parnaíba IV,Parnaiba Consolidated,35729.659
+781,2021,4,11,Porto de Sergipe I,Third-part LNG,771352.831
+782,2021,4,11,Porto do Itaqui,Coal Consolidated,216338.665
+783,2021,4,11,Porto do Pecém II,Coal Consolidated,221880.249
+784,2021,4,12,Fortaleza,Third-part LNG,45406.264
+785,2021,4,12,Maranhão III,Parnaiba Consolidated,164379.035
+786,2021,4,12,Maranhão IV,Parnaiba Consolidated,92699.898
+787,2021,4,12,Maranhão V,Parnaiba Consolidated,92729.164
+788,2021,4,12,Nova Venécia 2,Parnaiba Consolidated,49124.902
+789,2021,4,12,Parnaíba IV,Parnaiba Consolidated,16829.441
+790,2021,4,12,Porto de Sergipe I,Third-part LNG,922658.873
+791,2021,4,12,Porto do Itaqui,Coal Consolidated,79137.858
+792,2021,4,12,Porto do Pecém II,Coal Consolidated,80515.851
+793,2022,1,1,Fortaleza,Third-part LNG,0.0
+794,2022,1,1,Maranhão III,Parnaiba Consolidated,0.0
+795,2022,1,1,Maranhão IV,Parnaiba Consolidated,0.0
+796,2022,1,1,Maranhão V,Parnaiba Consolidated,0.0
+797,2022,1,1,Nova Venécia 2,Parnaiba Consolidated,0.0
+798,2022,1,1,Parnaíba IV,Parnaiba Consolidated,0.0
+799,2022,1,1,Porto de Sergipe I,Third-part LNG,790368.622
+800,2022,1,1,Porto do Itaqui,Coal Consolidated,0.0
+801,2022,1,1,Porto do Pecém II,Coal Consolidated,0.0
+802,2022,1,2,Fortaleza,Third-part LNG,0.0
+803,2022,1,2,Jaguatirica II,Roraima,7588.813
+804,2022,1,2,Maranhão III,Parnaiba Consolidated,0.0
+805,2022,1,2,Maranhão IV,Parnaiba Consolidated,0.0
+806,2022,1,2,Maranhão V,Parnaiba Consolidated,0.0
+807,2022,1,2,Nova Venécia 2,Parnaiba Consolidated,0.0
+808,2022,1,2,Parnaíba IV,Parnaiba Consolidated,0.0
+809,2022,1,2,Porto de Sergipe I,Third-part LNG,3692.316
+810,2022,1,2,Porto do Itaqui,Coal Consolidated,0.0
+811,2022,1,2,Porto do Pecém II,Coal Consolidated,0.0
+812,2022,1,3,Fortaleza,Third-part LNG,0.0
+813,2022,1,3,Jaguatirica II,Roraima,18508.778
+814,2022,1,3,Maranhão III,Parnaiba Consolidated,0.0
+815,2022,1,3,Maranhão IV,Parnaiba Consolidated,0.0
+816,2022,1,3,Maranhão V,Parnaiba Consolidated,0.0
+817,2022,1,3,Nova Venécia 2,Parnaiba Consolidated,1259.675
+818,2022,1,3,Parnaíba IV,Parnaiba Consolidated,25.529
+819,2022,1,3,Porto de Sergipe I,Third-part LNG,11231.166
+820,2022,1,3,Porto do Itaqui,Coal Consolidated,0.0
+821,2022,1,3,Porto do Pecém II,Coal Consolidated,0.0
+822,2022,2,4,Fortaleza,Third-part LNG,0.0
+823,2022,2,4,Jaguatirica II,Roraima,14920.843
+824,2022,2,4,Maranhão III,Parnaiba Consolidated,4892.955
+825,2022,2,4,Maranhão IV,Parnaiba Consolidated,0.0
+826,2022,2,4,Maranhão V,Parnaiba Consolidated,1.276
+827,2022,2,4,Nova Venécia 2,Parnaiba Consolidated,0.0
+828,2022,2,4,Parnaíba IV,Parnaiba Consolidated,0.0
+829,2022,2,4,Porto de Sergipe I,Third-part LNG,0.0
+830,2022,2,4,Porto do Itaqui,Coal Consolidated,0.0
+831,2022,2,4,Porto do Pecém II,Coal Consolidated,3246.727
+832,2022,2,5,Fortaleza,Third-part LNG,0.0
+833,2022,2,5,Jaguatirica II,Roraima,43610.931
+834,2022,2,5,Maranhão III,Parnaiba Consolidated,3441.685
+835,2022,2,5,Maranhão IV,Parnaiba Consolidated,0.0
+836,2022,2,5,Maranhão V,Parnaiba Consolidated,2.1
+837,2022,2,5,Nova Venécia 2,Parnaiba Consolidated,1933.982
+838,2022,2,5,Parnaíba IV,Parnaiba Consolidated,160.171
+839,2022,2,5,Porto de Sergipe I,Third-part LNG,0.0
+840,2022,2,5,Porto do Itaqui,Coal Consolidated,3013.122
+841,2022,2,5,Porto do Pecém II,Coal Consolidated,0.0
+842,2022,2,6,Fortaleza,Third-part LNG,0.0
+843,2022,2,6,Jaguatirica II,Roraima,44189.345
+844,2022,2,6,Maranhão III,Parnaiba Consolidated,343919.847
+845,2022,2,6,Maranhão IV,Parnaiba Consolidated,126037.708
+846,2022,2,6,Maranhão V,Parnaiba Consolidated,190547.176
+847,2022,2,6,Nova Venécia 2,Parnaiba Consolidated,123238.325
+848,2022,2,6,Parnaíba IV,Parnaiba Consolidated,24878.917
+849,2022,2,6,Porto de Sergipe I,Third-part LNG,0.0
+850,2022,2,6,Porto do Itaqui,Coal Consolidated,0.0
+851,2022,2,6,Porto do Pecém II,Coal Consolidated,0.0
+852,2022,3,7,Fortaleza,Third-part LNG,0.0
+853,2022,3,7,Jaguatirica II,Roraima,37286.977
+854,2022,3,7,Maranhão III,Parnaiba Consolidated,361639.494
+855,2022,3,7,Maranhão IV,Parnaiba Consolidated,65571.769
+856,2022,3,7,Maranhão V,Parnaiba Consolidated,3081.974
+857,2022,3,7,Nova Venécia 2,Parnaiba Consolidated,27741.451
+858,2022,3,7,Parnaíba IV,Parnaiba Consolidated,8770.71
+859,2022,3,7,Porto de Sergipe I,Third-part LNG,0.0
+860,2022,3,7,Porto do Itaqui,Coal Consolidated,0.0
+861,2022,3,7,Porto do Pecém II,Coal Consolidated,0.0
+862,2022,3,8,Fortaleza,Third-part LNG,0.0
+863,2022,3,8,Jaguatirica II,Roraima,45364.536
+864,2022,3,8,Maranhão III,Parnaiba Consolidated,366869.575
+865,2022,3,8,Maranhão IV,Parnaiba Consolidated,34310.418
+866,2022,3,8,Maranhão V,Parnaiba Consolidated,43084.322
+867,2022,3,8,Nova Venécia 2,Parnaiba Consolidated,126486.047
+868,2022,3,8,Parnaíba IV,Parnaiba Consolidated,32593.531
+869,2022,3,8,Porto de Sergipe I,Third-part LNG,1767.6100000000001
+870,2022,3,8,Porto do Itaqui,Coal Consolidated,0.0
+871,2022,3,8,Porto do Pecém II,Coal Consolidated,2993.065
+872,2022,3,9,Fortaleza,Third-part LNG,0.0
+873,2022,3,9,Jaguatirica II,Roraima,45365.762
+874,2022,3,9,Maranhão III,Parnaiba Consolidated,329620.175
+875,2022,3,9,Maranhão IV,Parnaiba Consolidated,86877.037
+876,2022,3,9,Maranhão V,Parnaiba Consolidated,50245.978
+877,2022,3,9,Nova Venécia 2,Parnaiba Consolidated,108921.6
+878,2022,3,9,Parnaíba IV,Parnaiba Consolidated,33718.708
+879,2022,3,9,Porto de Sergipe I,Third-part LNG,0.0
+880,2022,3,9,Porto do Itaqui,Coal Consolidated,0.0
+881,2022,3,9,Porto do Pecém II,Coal Consolidated,0.0
+882,2022,4,10,Fortaleza,Third-part LNG,0.0
+883,2022,4,10,Jaguatirica II,Roraima,49102.576
+884,2022,4,10,Maranhão III,Parnaiba Consolidated,362520.027
+885,2022,4,10,Maranhão IV,Parnaiba Consolidated,73006.278
+886,2022,4,10,Maranhão V,Parnaiba Consolidated,72733.292
+887,2022,4,10,Nova Venécia 2,Parnaiba Consolidated,4.136
+888,2022,4,10,Parnaíba IV,Parnaiba Consolidated,0.0
+889,2022,4,10,Porto de Sergipe I,Third-part LNG,0.0
+890,2022,4,10,Porto do Itaqui,Coal Consolidated,0.0
+891,2022,4,10,Porto do Pecém II,Coal Consolidated,0.0
+892,2022,4,11,Fortaleza,Third-part LNG,0.0
+893,2022,4,11,Jaguatirica II,Roraima,48296.46
+894,2022,4,11,Maranhão III,Parnaiba Consolidated,353827.241
+895,2022,4,11,Maranhão IV,Parnaiba Consolidated,58630.306
+896,2022,4,11,Maranhão V,Parnaiba Consolidated,56898.085
+897,2022,4,11,Nova Venécia 2,Parnaiba Consolidated,0.0
+898,2022,4,11,Parnaíba IV,Parnaiba Consolidated,0.0
+899,2022,4,11,Parnaíba V,Parnaiba Consolidated,61946.133
+900,2022,4,11,Porto de Sergipe I,Third-part LNG,0.0
+901,2022,4,11,Porto do Itaqui,Coal Consolidated,0.0
+902,2022,4,11,Porto do Pecém II,Coal Consolidated,0.0
+903,2022,4,12,Fortaleza,Third-part LNG,0.0
+904,2022,4,12,Jaguatirica II,Roraima,49592.258
+905,2022,4,12,Maranhão III,Parnaiba Consolidated,70678.752
+906,2022,4,12,Maranhão IV,Parnaiba Consolidated,174846.868
+907,2022,4,12,Maranhão V,Parnaiba Consolidated,173892.119
+908,2022,4,12,Nova Venécia 2,Parnaiba Consolidated,0.0
+909,2022,4,12,Parnaíba IV,Parnaiba Consolidated,9730.499
+910,2022,4,12,Parnaíba V,Parnaiba Consolidated,193041.944
+911,2022,4,12,Porto de Sergipe I,Third-part LNG,0.0
+912,2022,4,12,Porto do Itaqui,Coal Consolidated,0.0
+913,2022,4,12,Porto do Pecém II,Coal Consolidated,0.0
+914,2023,1,1,Fortaleza,Third-part LNG,0.0
+915,2023,1,1,Jaguatirica II,Roraima,54989.659999999996
+916,2023,1,1,Maranhão III,Parnaiba Consolidated,121959.996
+917,2023,1,1,Maranhão IV,Parnaiba Consolidated,80958.011
+918,2023,1,1,Maranhão V,Parnaiba Consolidated,83414.626
+919,2023,1,1,Nova Venécia 2,Parnaiba Consolidated,30855.8
+920,2023,1,1,Parnaíba IV,Parnaiba Consolidated,13579.15
+921,2023,1,1,Parnaíba V,Parnaiba Consolidated,91618.348
+922,2023,1,1,Porto de Sergipe I,Third-part LNG,0.0
+923,2023,1,1,Porto do Itaqui,Coal Consolidated,0.0
+924,2023,1,1,Porto do Pecém II,Coal Consolidated,0.0
+925,2023,1,2,Fortaleza,Third-part LNG,2108.19
+926,2023,1,2,Jaguatirica II,Roraima,55203.436
+927,2023,1,2,Maranhão III,Parnaiba Consolidated,3.244
+928,2023,1,2,Maranhão IV,Parnaiba Consolidated,0.0
+929,2023,1,2,Maranhão V,Parnaiba Consolidated,0.87
+930,2023,1,2,Nova Venécia 2,Parnaiba Consolidated,0.0
+931,2023,1,2,Parnaíba IV,Parnaiba Consolidated,0.0
+932,2023,1,2,Parnaíba V,Parnaiba Consolidated,1.7759999999999998
+933,2023,1,2,Porto de Sergipe I,Third-part LNG,0.0
+934,2023,1,2,Porto do Itaqui,Coal Consolidated,0.0
+935,2023,1,2,Porto do Pecém II,Coal Consolidated,0.0
+936,2023,1,3,Fortaleza,Third-part LNG,0.0
+937,2023,1,3,Jaguatirica II,Roraima,62652.051
+938,2023,1,3,Maranhão III,Parnaiba Consolidated,0.0
+939,2023,1,3,Maranhão IV,Parnaiba Consolidated,0.0
+940,2023,1,3,Maranhão V,Parnaiba Consolidated,0.0
+941,2023,1,3,Nova Venécia 2,Parnaiba Consolidated,818.585
+942,2023,1,3,Parnaíba IV,Parnaiba Consolidated,0.0
+943,2023,1,3,Parnaíba V,Parnaiba Consolidated,4.416
+944,2023,1,3,Porto de Sergipe I,Third-part LNG,0.0
+945,2023,1,3,Porto do Itaqui,Coal Consolidated,0.0
+946,2023,1,3,Porto do Pecém II,Coal Consolidated,0.0
+947,2023,2,4,Fortaleza,Third-part LNG,0.0
+948,2023,2,4,Jaguatirica II,Roraima,55958.938
+949,2023,2,4,Maranhão III,Parnaiba Consolidated,5866.358
+950,2023,2,4,Maranhão IV,Parnaiba Consolidated,114405.468
+951,2023,2,4,Maranhão V,Parnaiba Consolidated,108191.171
+952,2023,2,4,Nova Venécia 2,Parnaiba Consolidated,419.328
+953,2023,2,4,Parnaíba IV,Parnaiba Consolidated,13866.275
+954,2023,2,4,Parnaíba V,Parnaiba Consolidated,117816.302
+955,2023,2,4,Porto de Sergipe I,Third-part LNG,0.0
+956,2023,2,4,Porto do Itaqui,Coal Consolidated,0.0
+957,2023,2,4,Porto do Pecém II,Coal Consolidated,0.0
+958,2023,2,5,Fortaleza,Third-part LNG,0.0
+959,2023,2,5,Jaguatirica II,Roraima,58232.825
+960,2023,2,5,Maranhão III,Parnaiba Consolidated,4446.575
+961,2023,2,5,Maranhão IV,Parnaiba Consolidated,1.563
+962,2023,2,5,Maranhão V,Parnaiba Consolidated,0.0
+963,2023,2,5,Nova Venécia 2,Parnaiba Consolidated,0.0
+964,2023,2,5,Parnaíba IV,Parnaiba Consolidated,102.506
+965,2023,2,5,Parnaíba V,Parnaiba Consolidated,4.886
+966,2023,2,5,Porto de Sergipe I,Third-part LNG,0.0
+967,2023,2,5,Porto do Itaqui,Coal Consolidated,0.0
+968,2023,2,5,Porto do Pecém II,Coal Consolidated,0.0
+969,2023,2,6,Fortaleza,Third-part LNG,0.0
+970,2023,2,6,Jaguatirica II,Roraima,60001.398
+971,2023,2,6,Maranhão III,Parnaiba Consolidated,355008.603
+972,2023,2,6,Maranhão IV,Parnaiba Consolidated,157553.173
+973,2023,2,6,Maranhão V,Parnaiba Consolidated,157347.729
+974,2023,2,6,Nova Venécia 2,Parnaiba Consolidated,37007.934
+975,2023,2,6,Parnaíba IV,Parnaiba Consolidated,11213.302
+976,2023,2,6,Parnaíba V,Parnaiba Consolidated,161870.966
+977,2023,2,6,Porto de Sergipe I,Third-part LNG,0.0
+978,2023,2,6,Porto do Itaqui,Coal Consolidated,0.0
+979,2023,2,6,Porto do Pecém II,Coal Consolidated,0.0
+980,2023,3,7,Fortaleza,Third-part LNG,0.0
+981,2023,3,7,Jaguatirica II,Roraima,62911.986
+982,2023,3,7,Maranhão III,Parnaiba Consolidated,368979.756
+983,2023,3,7,Maranhão IV,Parnaiba Consolidated,40087.74
+984,2023,3,7,Maranhão V,Parnaiba Consolidated,36810.429
+985,2023,3,7,Nova Venécia 2,Parnaiba Consolidated,1111.521
+986,2023,3,7,Parnaíba IV,Parnaiba Consolidated,0.0
+987,2023,3,7,Parnaíba V,Parnaiba Consolidated,36206.554
+988,2023,3,7,Porto de Sergipe I,Third-part LNG,0.0
+989,2023,3,7,Porto do Itaqui,Coal Consolidated,0.0
+990,2023,3,7,Porto do Pecém II,Coal Consolidated,0.0
+991,2023,3,8,Fortaleza,Third-part LNG,0.0
+992,2023,3,8,Jaguatirica II,Roraima,67267.224
+993,2023,3,8,Maranhão III,Parnaiba Consolidated,353435.469
+994,2023,3,8,Maranhão IV,Parnaiba Consolidated,17347.217
+995,2023,3,8,Maranhão V,Parnaiba Consolidated,18090.948
+996,2023,3,8,Nova Venécia 2,Parnaiba Consolidated,2.7840000000000003
+997,2023,3,8,Parnaíba IV,Parnaiba Consolidated,0.0
+998,2023,3,8,Parnaíba V,Parnaiba Consolidated,18749.84
+999,2023,3,8,Porto de Sergipe I,Third-part LNG,0.0
+1000,2023,3,8,Porto do Itaqui,Coal Consolidated,0.0
+1001,2023,3,8,Porto do Pecém II,Coal Consolidated,0.0
+1002,2023,3,9,Fortaleza,Third-part LNG,0.0
+1003,2023,3,9,Jaguatirica II,Roraima,63666.321
+1004,2023,3,9,Maranhão III,Parnaiba Consolidated,319702.324
+1005,2023,3,9,Maranhão IV,Parnaiba Consolidated,0.0
+1006,2023,3,9,Maranhão V,Parnaiba Consolidated,0.0
+1007,2023,3,9,Nova Venécia 2,Parnaiba Consolidated,581.0
+1008,2023,3,9,Parnaíba IV,Parnaiba Consolidated,0.0
+1009,2023,3,9,Parnaíba V,Parnaiba Consolidated,0.0
+1010,2023,3,9,Porto de Sergipe I,Third-part LNG,0.0
+1011,2023,3,9,Porto do Itaqui,Coal Consolidated,0.0
+1012,2023,3,9,Porto do Pecém II,Coal Consolidated,0.0
+1013,2023,4,10,Fortaleza,Third-part LNG,0.0
+1014,2023,4,10,Jaguatirica II,Roraima,70752.232
+1015,2023,4,10,Maranhão III,Parnaiba Consolidated,323176.793
+1016,2023,4,10,Maranhão IV,Parnaiba Consolidated,8665.925
+1017,2023,4,10,Maranhão V,Parnaiba Consolidated,8426.086
+1018,2023,4,10,Nova Venécia 2,Parnaiba Consolidated,0.0
+1019,2023,4,10,Parnaíba IV,Parnaiba Consolidated,1628.95
+1020,2023,4,10,Parnaíba V,Parnaiba Consolidated,9444.706
+1021,2023,4,10,Porto de Sergipe I,Third-part LNG,0.0
+1022,2023,4,10,Porto do Itaqui,Coal Consolidated,0.0
+1023,2023,4,10,Porto do Pecém II,Coal Consolidated,0.0
+1024,2023,4,11,Fortaleza,Third-part LNG,49616.162
+1025,2023,4,11,Jaguatirica II,Roraima,71210.583
+1026,2023,4,11,Maranhão III,Parnaiba Consolidated,345592.82
+1027,2023,4,11,Maranhão IV,Parnaiba Consolidated,78462.315
+1028,2023,4,11,Maranhão V,Parnaiba Consolidated,84737.23
+1029,2023,4,11,Nova Venécia 2,Parnaiba Consolidated,32322.973
+1030,2023,4,11,Parnaíba IV,Parnaiba Consolidated,18206.387
+1031,2023,4,11,Parnaíba V,Parnaiba Consolidated,89509.575
+1032,2023,4,11,Porto de Sergipe I,Third-part LNG,0.0
+1033,2023,4,11,Porto do Itaqui,Coal Consolidated,0.0
+1034,2023,4,11,Porto do Pecém II,Coal Consolidated,61294.081
+1035,2023,4,12,Fortaleza,Third-part LNG,26905.652
+1036,2023,4,12,Jaguatirica II,Roraima,76678.371
+1037,2023,4,12,Maranhão III,Parnaiba Consolidated,157845.951
+1038,2023,4,12,Maranhão IV,Parnaiba Consolidated,82471.535
+1039,2023,4,12,Maranhão V,Parnaiba Consolidated,81990.842
+1040,2023,4,12,Nova Venécia 2,Parnaiba Consolidated,45065.974
+1041,2023,4,12,Parnaíba IV,Parnaiba Consolidated,18970.579
+1042,2023,4,12,Parnaíba V,Parnaiba Consolidated,91802.596
+1043,2023,4,12,Porto de Sergipe I,Third-part LNG,0.0
+1044,2023,4,12,Porto do Itaqui,Coal Consolidated,32913.744
+1045,2023,4,12,Porto do Pecém II,Coal Consolidated,42487.589
+1046,2024,1,1,Fortaleza,Third-part LNG,64.944
+1047,2024,1,1,Jaguatirica II,Roraima,77214.946
+1048,2024,1,1,Maranhão III,Parnaiba Consolidated,368764.644
+1049,2024,1,1,Maranhão IV,Parnaiba Consolidated,113405.008
+1050,2024,1,1,Maranhão V,Parnaiba Consolidated,111288.557
+1051,2024,1,1,Nova Venécia 2,Parnaiba Consolidated,47178.064
+1052,2024,1,1,Parnaíba IV,Parnaiba Consolidated,24051.941
+1053,2024,1,1,Parnaíba V,Parnaiba Consolidated,143488.824
+1054,2024,1,1,Porto de Sergipe I,Third-part LNG,0.0
+1055,2024,1,1,Porto do Itaqui,Coal Consolidated,3020.391
+1056,2024,1,1,Porto do Pecém II,Coal Consolidated,0.0
+1057,2024,1,2,Fortaleza,Third-part LNG,85.608
+1058,2024,1,2,Jaguatirica II,Roraima,71455.662
+1059,2024,1,2,Maranhão III,Parnaiba Consolidated,371.926
+1060,2024,1,2,Maranhão IV,Parnaiba Consolidated,55656.185
+1061,2024,1,2,Maranhão V,Parnaiba Consolidated,56081.206
+1062,2024,1,2,Nova Venécia 2,Parnaiba Consolidated,0.0
+1063,2024,1,2,Parnaíba IV,Parnaiba Consolidated,6185.402
+1064,2024,1,2,Parnaíba V,Parnaiba Consolidated,67567.331
+1065,2024,1,2,Porto de Sergipe I,Third-part LNG,0.0
+1066,2024,1,2,Porto do Itaqui,Coal Consolidated,0.0
+1067,2024,1,2,Porto do Pecém II,Coal Consolidated,0.0
+1068,2024,1,3,Fortaleza,Third-part LNG,8.856
+1069,2024,1,3,Jaguatirica II,Roraima,6997.754
+1070,2024,1,3,Maranhão III,Parnaiba Consolidated,0.0
+1071,2024,1,3,Maranhão IV,Parnaiba Consolidated,0.0
+1072,2024,1,3,Maranhão V,Parnaiba Consolidated,0.0
+1073,2024,1,3,Nova Venécia 2,Parnaiba Consolidated,0.0
+1074,2024,1,3,Parnaíba IV,Parnaiba Consolidated,0.0
+1075,2024,1,3,Parnaíba V,Parnaiba Consolidated,0.022000000000000002
+1076,2024,1,3,Porto de Sergipe I,Third-part LNG,0.0
+1077,2024,1,3,Porto do Itaqui,Coal Consolidated,0.0
+1078,2024,1,3,Porto do Pecém II,Coal Consolidated,0.0
